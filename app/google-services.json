@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205299077304",
+    "firebase_url": "https://easy-project-firebase.firebaseio.com",
+    "project_id": "easy-project-firebase",
+    "storage_bucket": "easy-project-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205299077304:android:a06b474c54e0295df0e44d",
+        "android_client_info": {
+          "package_name": "edu.cuhk.csci3310.easyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205299077304-8ma80nb8kb4h0pu41ju4l0em9m8hqf34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.cuhk.csci3310.easyproject",
+            "certificate_hash": "ff112e43585217aafbefa5f707bbce8fac1bf8c8"
+          }
+        },
+        {
+          "client_id": "205299077304-l0f4oi1vtltb0dto085c24dub434upc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFe9SikPxhVOV_gRJWALrPTRtakUnyAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205299077304-l0f4oi1vtltb0dto085c24dub434upc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
