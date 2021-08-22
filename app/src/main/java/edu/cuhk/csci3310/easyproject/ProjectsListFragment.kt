@@ -452,7 +452,7 @@ class ProjectsListFragment : Fragment(), ProjectViewAdapter.OnItemClickListener 
                     .setValue(
                         addPathMap(createdProjectsList)
                     ).addOnSuccessListener {
-                        Toast.makeText(this.context, "Deleted project successfully!", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(this.context, "Create project successfully!", Toast.LENGTH_SHORT).show()
                     }
                     .addOnFailureListener {
                         Log.d("joinProject:", "Write failed!")
